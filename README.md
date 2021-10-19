@@ -1,5 +1,5 @@
 
-[![Header](https://github.com/kwquan/kwquan/blob/main/Wei Quan.png "Header")]
+[![Header](https://github.com/kwquan/kwquan/blob/main/Wei_Quan.png "Header")]
 
 ### Hi there 👋
 
