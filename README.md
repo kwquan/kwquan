@@ -3,7 +3,10 @@
 
 ### Hi there 👋
 My name is weiquan and I'm a data scientist. \
-I'm currently working on projects to deepen my knowledge in the field of Compuer Vision.
+I'm currently working on projects to deepen my knowledge in the field of Compuer Vision. \
+You can find me on [![LinkedIn][1.2]][1]
+[1.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+[1]: https://www.linkedin.com/in/wei-quan-khoo
 
 <!--
 **kwquan/kwquan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
