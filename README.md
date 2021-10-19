@@ -2,7 +2,7 @@
 ![Header](https://github.com/kwquan/kwquan/blob/main/Wei_Quan.png "Header")
 
 ### Hi there 👋
-My name is weiquan and I'm a data scientist. \n
+My name is weiquan and I'm a data scientist. \
 I'm currently working on projects to deepen my knowledge in the field of Compuer Vision.
 
 <!--
