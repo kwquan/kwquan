@@ -1,5 +1,6 @@
 
-[![Header](https://raw.githubusercontent.com/kwquan/kwquan/Wei Quan.png "Header")]
+[![Header](https://raw.githubusercontent.com/MartinHeinz/kwquan/kwquan/Wei Quan.png "Header")]
+
 ### Hi there 👋
 
 <!--
