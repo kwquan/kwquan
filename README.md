@@ -3,7 +3,7 @@
 
 ### Hi there 👋
 My name is Wei Quan and I'm a Data Scientist. \
-I'm currently working on projects to deepen my knowledge in the field of Computer Vision. \
+I'm currently working on projects to deepen my knowledge in the field of Reinforcement Learning. \
 You can find me on [![LinkedIn][1.2]][1]
 <!-- Icons -->
 [1.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
